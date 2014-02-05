@@ -1,5 +1,5 @@
 {
-	"name" : "PBSL - PHP buildin server launch",
+	"name" : "clemenssahs/php_buildin_server_launch",
 	"authors" : [{
 			"name" : "Clemens Sahs",
 			"email" : "clemens.sahs@slides-worker.org"
@@ -13,5 +13,6 @@
 		"psr-0" : {
 			"PDSL" : "src/pdsl"
 		}
-	}
+	},
+	"description" : "PBSL - PHP buildin server launch"
 }
