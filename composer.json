@@ -1,0 +1,17 @@
+{
+	"name" : "PBSL - PHP buildin server launch",
+	"authors" : [{
+			"name" : "Clemens Sahs",
+			"email" : "clemens.sahs@slides-worker.org"
+		}
+	],
+	"support" : {
+		"issues" : "https://github.com/ClemensSahs/php_buildin_server_launch/issues",
+		"source" : "https://github.com/ClemensSahs/php_buildin_server_launch/"
+	},
+	"autoload" : {
+		"psr-0" : {
+			"PDSL" : "src/pdsl"
+		}
+	}
+}
