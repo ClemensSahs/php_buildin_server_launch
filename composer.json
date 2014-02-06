@@ -14,5 +14,6 @@
 			"PDSL" : "src/pdsl"
 		}
 	},
-	"description" : "PBSL - PHP buildin server launch"
+	"description" : "PBSL - PHP buildin server launch",
+	"license" : "MIT"
 }
